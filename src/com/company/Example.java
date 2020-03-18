@@ -1,5 +1,6 @@
 package com.company;
 import java.io.*;
+import java.net.Socket;
 import java.util.Scanner;
 
 public class Example {
